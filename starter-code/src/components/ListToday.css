@@ -1,0 +1,13 @@
+.list-today {
+    margin: 2% 5%;
+}
+
+.list-today h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.list-today p {
+    width: max-content;
+    margin: 10% 0;
+}
